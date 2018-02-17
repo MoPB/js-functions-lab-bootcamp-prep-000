@@ -13,7 +13,7 @@ function happyHolidays() {
   sayhappyHolidays('Bertha')
   
   
-function happyHolidayTo()  
+function happyHolidayTo(Independence d)
   
   }
   
