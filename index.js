@@ -16,8 +16,7 @@ function happyHolidays() {
 function happyHolidayTo(IndependenceDay,Bertha) {
   console.log("Happy${IndependenceDay,${Bertha}!")
 }
-sayhappyIndependenceDay()
-
+sayhappyIndependenceDayBertha()
 }
   
   
