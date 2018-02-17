@@ -7,7 +7,15 @@ function happyHolidays() {
  
 
   
+  function happyHolidaysTo(Bertha) {
+    console.log('happyHolidays,${Bertha}!')
+  }
+  sayhappyHolidaysTo('Bertha')
   
+  
+  
+  
+  }
   
   
   
