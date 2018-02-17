@@ -2,4 +2,5 @@
 function happyHolidays() {
   console.log("Happy holidays!")
   }
-  say()
+  say(Happy holidays)
+  
