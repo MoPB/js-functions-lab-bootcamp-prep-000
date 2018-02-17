@@ -8,7 +8,7 @@ function happyHolidays() {
 
   
   function happyHolidaysTo(Bertha) {
-    console.log('happyHolidays,${Bertha}!')
+    return('happyHolidays,${Bertha}!')
   }
   sayhappyHolidays('Bertha')
   
