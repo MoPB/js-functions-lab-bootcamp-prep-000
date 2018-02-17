@@ -13,9 +13,14 @@ function happyHolidays() {
   sayhappyHolidays('Bertha')
   
   
-function happyHolidayTo(Independence d)
+function happyHolidayTo(Independence Day,Bertha) {
+  console.log('Happy Independence Day,${Bertha}!')
+}
+sayhappyIndependenceDay()
+
+}
   
-  }
+  
   
   
   
